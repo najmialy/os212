@@ -15,3 +15,5 @@ ZCZC W00 210 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 300 L71 Working (General)
 ZCZC W00  40 L80 Waching: Movie, YouTube, TV, etc.
 ZCZC W00 200 L81 Listening: Radio, Music, etc.
+ZCZC W01  20 L11 Assignment #01
+ZCZC W01 180 L12 Assignment #02
