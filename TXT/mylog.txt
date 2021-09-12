@@ -13,15 +13,15 @@ ZCZC W00  05 L14 Assignment #04
 ZCZC W00  60 L15 Assignment #05
 ZCZC W00 210 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 300 L71 Working (General)
-ZCZC W00  40 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W00  40 L80 Watching: Movie, YouTube, TV, etc.
 ZCZC W00 200 L81 Listening: Radio, Music, etc.
 ZCZC W01  30 L01 SCELE/Discord related
 ZCZC W01 200 L02 ZOOM meetings related
 ZCZC W01  20 L11 Assignment #01
-ZCZC W01 180 L12 Assignment #02
+ZCZC W01 120 L12 Assignment #02
 ZCZC W01  60 L13 Assignment #03
-ZCZC W01 180 L14 Assignment #04
-ZCZC W01 120 L15 Assignment #05
+ZCZC W01 120 L14 Assignment #04
+ZCZC W01  30 L15 Assignment #05
+ZCZC W01  60 L16 Assignment #06
 ZCZC W01  05 L22 Quiz Week 00
-ZCZC W01 240 L70 Studying for other courses.
-ZCZC W01 300 L71 Working (General)
+ZCZC W01 200 L70 Studying for other courses.
