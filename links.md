@@ -1,9 +1,9 @@
 ---
 permalink: /LINKS/
 ---
+[Home](https://najmialy.github.io/os212/) | [My Repo](https://github.com/najmialy/os212) | [Log](https://najmialy.github.io/os212/TXT/mylog.txt)
 
 ## LINKS
-[Home](https://najmialy.github.io/os212/) | [My Repo](https://github.com/najmialy/os212) | [Log](https://najmialy.github.io/os212/TXT/mylog.txt)
 
 1. [What is Operating System?!](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
 Sebelumnya saya memang masih cukup bingung apa yang kita akan pelajari pada Sistem Operasi ini, sehingga saya mencoba memahaminya dari link ini. Bahwa Sistem operasi adalah bagian terpenting dari perangkat lunak yang bekerja di komputer. Sistem operasi mengelola memori dan proses komputer dan semua perangkat lunak dan perangkat kerasnya.
