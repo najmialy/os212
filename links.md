@@ -11,5 +11,5 @@ Sebelumnya saya memang masih cukup bingung apa yang kita akan pelajari pada Sist
 2. [VirtualBox](computerhope.com/jargon/v/virtualbox.htm)<br>
 Pada website ini, saya dapat mempelajari sedikit tentang virtualbox yang bisa dibilang baru bagi saya. Terdapat penjelasan singkat mengenai virtualbox serta sejarah singkatnya juga.
 
-3. [Whats is Vi and How it Works?](https://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)<br>
+3. [What is Vi and How it Works?](https://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)<br>
 Saat mengerjakan tugas W01, saya cukup bingung bagaimana cara kerja 'vi' pada text editor karena selama ini saya hanya mengedit pada GitHub secara langsung. Website ini membantu saya dalam memahami cara kerja dan penjelasan dari 'vi' itu sendiri.
