@@ -21,8 +21,8 @@ Saat mengerjakan tugas W01, saya cukup bingung bagaimana cara kerja 'vi' pada te
 4. [Cryptography vs Encryption](https://www.educba.com/cryptography-vs-encryption/)<br>
 Website ini membantu saya untuk mencari tahu lebih lanjut terkait encryption. Terdapat beberapa comparison antara encryption dan cryptography yang disajikan jelas pada website tersebut. Salah satu contoh perbedaan utama yang tertulis di website ini adalah untuk criptography sendiri itu merupakan pembelajaran konsep terkait encryption dan decryption sedangkan untuk encryption sendiri merupakan proses pengkodean suatu message.
 
-5. [What is DDOS?!](https://www.netscout.com/what-is-ddos)
+5. [What is DDOS?!](https://www.netscout.com/what-is-ddos)<br>
 Saya mempelajari sedikit hal terkait DDOS dari website ini, seperti 'Apa sebenarnya DDOS?', 'Seberapa bahaya DDOS?', 'Bagaimana solusi mengatasi DDOS?'. Website ini sebenarnya memberikan materi lengkap terkait DDOS.
 
-6. [Types of Security Breaches](https://www.n-able.com/blog/types-of-security-breaches-and-how-to-prevent-them)
+6. [Types of Security Breaches](https://www.n-able.com/blog/types-of-security-breaches-and-how-to-prevent-them)<br>
 Pada slide week 02 telah disebutkan beberapa Security Violation Methods dan hal lainnya, saya mencoba mencari tahu penjelasan terkait beberapa diantaranya dan melihat perbedaannya pada website ini. Terdapat sedikit penjelasan terkait Man-In-The-Middle Attack dan juga Malware Attack.
