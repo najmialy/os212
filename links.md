@@ -26,3 +26,8 @@ Saya mempelajari sedikit hal terkait DDOS dari website ini, seperti 'Apa sebenar
 
 6. [Types of Security Breaches](https://www.n-able.com/blog/types-of-security-breaches-and-how-to-prevent-them)<br>
 Pada slide week 02 telah disebutkan beberapa Security Violation Methods dan hal lainnya, saya mencoba mencari tahu penjelasan terkait beberapa diantaranya dan melihat perbedaannya pada website ini. Terdapat sedikit penjelasan terkait Man-In-The-Middle Attack dan juga Malware Attack.
+
+### W03
+
+7. [File Storage System](https://www.geeksforgeeks.org/understanding-file-system/)
+Saya mencoba mencari tahu terkait file storage system apa saja yang populer pada tahun lalu, terdapat 4 file storage system yang populer dan terdapat penjelasan dari masing-masingnya.
