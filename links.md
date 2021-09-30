@@ -29,5 +29,10 @@ Pada slide week 02 telah disebutkan beberapa Security Violation Methods dan hal 
 
 ### W03
 
-7. [File Storage System](https://www.geeksforgeeks.org/understanding-file-system/)
+7. [File Storage System](https://www.geeksforgeeks.org/understanding-file-system/)<br>
 Saya mencoba mencari tahu terkait file storage system apa saja yang populer pada tahun lalu, terdapat 4 file storage system yang populer dan terdapat penjelasan dari masing-masingnya.
+
+### W04
+
+8. [Pointers Examples in C Programming](https://beginnersbook.com/2014/01/c-pointers/)<br>
+Website ini membantu saya dalam mencoba memahami materi addressing dan pointers pada bahasa pemrograman C karena terdapat gambaran seperti apa bentuk ketika melakukan pointer beserta address. Tidak hanya gambaran contoh saja tetapi terdapat beberapa code contoh beserta outputnya.
