@@ -75,3 +75,18 @@ ZCZC W04  20 L22 Quiz Week 03
 ZCZC W04  30 L26 C-language
 ZCZC W04  60 L32 YouTube: study, etc.
 ZCZC W04 180 L70 Studying for other courses.
+ZCZC W05  20 L01 SCELE/Discord related
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05  20 L06 References/Books/Documents/GSGS related
+ZCZC W05  30 L07 Demo related
+ZCZC W05  15 L08 AsDos: asking, etc.
+ZCZC W05  60 L11 Assignment #01
+ZCZC W05  30 L12 Assignment #02
+ZCZC W05  60 L13 Assignment #03
+ZCZC W05  65 L14 Assignment #04
+ZCZC W05  30 L15 Assignment #05
+ZCZC W05  05 L17 Assignment #07
+ZCZC W05  15 L18 Assignment #08
+ZCZC W05  10 L19 Assignment #09
+ZCZC W05  80 L32 YouTube: study, etc.
+ZCZC W05 120 L70 Studying for other courses.

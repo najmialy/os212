@@ -36,3 +36,8 @@ Saya mencoba mencari tahu terkait file storage system apa saja yang populer pada
 
 8. [Pointers Examples in C Programming](https://beginnersbook.com/2014/01/c-pointers/)<br>
 Website ini membantu saya dalam mencoba memahami materi addressing dan pointers pada bahasa pemrograman C karena terdapat gambaran seperti apa bentuk ketika melakukan pointer beserta address. Tidak hanya gambaran contoh saja tetapi terdapat beberapa code contoh beserta outputnya.
+
+### W05
+
+9. [Virtual Address Space](https://en.wikipedia.org/wiki/Virtual_address_space)<br>
+Virtual Address Space adalah kumpulan rentang virtual address yang telah disediakan oleh sistem operasi untuk melakukan suatu proses. Virtual Address biasanya digunakan dimulai dari address yang paling low hingga highest address yang di-allowed oleh arsitektur set instruksi komputer dan juga didukung dengan implementasi pointer sistem operasi.
