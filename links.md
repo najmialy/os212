@@ -41,3 +41,8 @@ Website ini membantu saya dalam mencoba memahami materi addressing dan pointers 
 
 9. [Virtual Address Space](https://en.wikipedia.org/wiki/Virtual_address_space)<br>
 Virtual Address Space adalah kumpulan rentang virtual address yang telah disediakan oleh sistem operasi untuk melakukan suatu proses. Virtual Address biasanya digunakan dimulai dari address yang paling low hingga highest address yang di-allowed oleh arsitektur set instruksi komputer dan juga didukung dengan implementasi pointer sistem operasi.
+
+### W06
+
+10. [Pipe() System Call](https://www.geeksforgeeks.org/pipe-system-call/)<br>
+Pipe adalah suatu teknik untuk melakukan parsing informasi dari satu proses program ke proses lainnya. Pipe System Call menemukan dua posisi pertama yang terdapat pada process's open file table dan mengalokasikannya untuk dibaca dan ditulis di ujung pipe.
