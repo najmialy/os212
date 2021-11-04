@@ -46,3 +46,8 @@ Virtual Address Space adalah kumpulan rentang virtual address yang telah disedia
 
 10. [Pipe() System Call](https://www.geeksforgeeks.org/pipe-system-call/)<br>
 Pipe adalah suatu teknik untuk melakukan parsing informasi dari satu proses program ke proses lainnya. Pipe System Call menemukan dua posisi pertama yang terdapat pada process's open file table dan mengalokasikannya untuk dibaca dan ditulis di ujung pipe.
+
+### W07
+
+11. [Shared Memory Model of Process Communication](https://www.tutorialspoint.com/shared-memory-model-of-process-communication)<br>
+Model shared memory adalah salah satu model komunikasi proses yang disediakan oleh sistem operasi. Komunikasi yang dilakukan antar proses adalah terdapat proses yang memberi tahu proses lain bahwa terdapat beberapa hal yang telah terjadi atau terdapat pentransferan data dari 1 proses ke proses lainnya.
