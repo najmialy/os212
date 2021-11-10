@@ -51,3 +51,8 @@ Pipe adalah suatu teknik untuk melakukan parsing informasi dari satu proses prog
 
 11. [Shared Memory Model of Process Communication](https://www.tutorialspoint.com/shared-memory-model-of-process-communication)<br>
 Model shared memory adalah salah satu model komunikasi proses yang disediakan oleh sistem operasi. Komunikasi yang dilakukan antar proses adalah terdapat proses yang memberi tahu proses lain bahwa terdapat beberapa hal yang telah terjadi atau terdapat pentransferan data dari 1 proses ke proses lainnya.
+
+### W08
+
+12. [The Difference Between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+Perbedaan yang dapat dengan mudah dipahami antara proses dan thread adalah proses itu menandakan bahwa program sedang dieksekusi, sedangkan thread merupakan segment dari proses yang dimana setiap proses bisa memiliki banyak threads.
