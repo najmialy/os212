@@ -135,3 +135,18 @@ ZCZC W08  10 L19 Assignment #09
 ZCZC W08  05 L20 Assignment #10
 ZCZC W08  40 L32 YouTube: study, etc.
 ZCZC W08  90 L70 Studying for other courses.
+ZCZC W09  20 L01 SCELE/Discord related
+ZCZC W09  30 L02 ZOOM meetings related
+ZCZC W09  30 L06 References/Books/Documents/GSGS related
+ZCZC W09  35 L07 Demo related
+ZCZC W09  30 L08 AsDos: asking, etc.
+ZCZC W09  40 L11 Assignment #01
+ZCZC W09  40 L12 Assignment #02
+ZCZC W09  90 L13 Assignment #03
+ZCZC W09 240 L14 Assignment #04
+ZCZC W09  20 L15 Assignment #05
+ZCZC W09  15 L17 Assignment #07
+ZCZC W09  10 L18 Assignment #08
+ZCZC W09  05 L19 Assignment #09
+ZCZC W09 150 L32 YouTube: study, etc.
+ZCZC W09  90 L70 Studying for other courses.

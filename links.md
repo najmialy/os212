@@ -56,3 +56,8 @@ Model shared memory adalah salah satu model komunikasi proses yang disediakan ol
 
 12. [The Difference Between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
 Perbedaan yang dapat dengan mudah dipahami antara proses dan thread adalah proses itu menandakan bahwa program sedang dieksekusi, sedangkan thread merupakan segment dari proses yang dimana setiap proses bisa memiliki banyak threads.
+
+### W09
+
+13. [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)<br>
+Poin pertama yang pada sumber ini dan sangat dasar untuk dipahami adalah bahwa pada dasarnya program dan data diinginkan pada memori utama secara permanen. Namun ternyata keinginan tersebut biasanya tidak mungkin karena beberapa alasan yang dijelaskan pada web ini.
